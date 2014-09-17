@@ -4,20 +4,18 @@ Vim syntax highlighting for Aheui.
 
 ## Intallation
 
-If you use [Vundle.vim](https://github.com/gmarik/Vundle.vim), add the following line to your `~/.vimrc`:
-
-``` vim
-Plugin 'yous/aheui.vim'
-```
-
-Then launch `vim` and run `:PluginInstall`. To install from command line, run `vim +PluginInstall +qall`.
-
-If you use [Pathogen](https://github.com/tpope/vim-pathogen), run from terminal:
-
-``` sh
-cd ~/.vim/bundle
-git clone https://github.com/yous/aheui.vim.git
-```
+- [Pathogen](https://github.com/tpope/vim-pathogen)
+    1. `cd ~/.vim/bundle`
+    2. `git clone https://github.com/yous/aheui.vim.git`
+- [Vundle](https://github.com/gmarik/Vundle.vim)
+    1. Add `Plugin 'yous/aheui.vim'` to `.vimrc`
+    2. Run `:PluginInstall`
+- [NeoBundle](https://github.com/Shougo/neobundle.vim)
+    1. Add `NeoBundle 'yous/aheui.vim'` to `.vimrc`
+    2. Run `:NeoBundleInstall`
+- [vim-plug](https://github.com/junegunn/vim-plug)
+    1. Add `Plug 'yous/aheui.vim'` to `.vimrc`
+    2. Run `:PlugInstall`
 
 ## License
 
