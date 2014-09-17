@@ -2,6 +2,8 @@
 
 Vim syntax highlighting for Aheui.
 
+![aheui.vim](https://github.com/yous/aheui.vim/raw/master/aheui.png)
+
 ## Intallation
 
 - [Pathogen](https://github.com/tpope/vim-pathogen)
