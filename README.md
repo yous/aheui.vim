@@ -1,5 +1,7 @@
 # aheui.vim
 
+[![Build Status](https://travis-ci.org/yous/aheui.vim.svg?branch=master)](https://travis-ci.org/yous/aheui.vim)
+
 Vim syntax highlighting for Aheui.
 
 ![aheui.vim](https://github.com/yous/aheui.vim/raw/master/aheui.png)
