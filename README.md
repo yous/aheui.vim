@@ -21,4 +21,4 @@ Vim syntax highlighting for Aheui.
 
 ## License
 
-Copyright (c) 2014 ChaYoung You. See [LICENSE.txt](LICENSE.txt) for details.
+Copyright © Chayoung You. See [LICENSE.txt](LICENSE.txt) for details.
