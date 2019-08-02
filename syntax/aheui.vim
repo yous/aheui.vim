@@ -7,6 +7,9 @@ if exists('b:current_syntax')
   finish
 endif
 
+set encoding=utf-8
+scriptencoding utf-8
+
 syn match aheuiComment        '[^가-힣]'
 syn match aheuiPop            '[마-밓]'                                      contains=aheuiPopNumber,aheuiPopCharacter
 syn match aheuiPopNumber      '[망맹먕먱멍멩명몡몽뫙뫵묑묭뭉뭥뮁뮝뮹믕믱밍]' containedin=aheuiPop
